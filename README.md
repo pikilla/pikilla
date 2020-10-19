@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# stagiaire en développement web et web mobile 💻
+_telephone_: 07.87.77.05.31 📳
+_mail_: maite.lajournade@gmail.com ✉
+
+
+
