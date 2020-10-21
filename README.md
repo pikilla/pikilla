@@ -19,4 +19,4 @@ _telephone_: 07.87.77.05.31 📳
 _mail_: maite.lajournade@gmail.com ✉
 
 
-![princesse mononoke](mo.jpg = 640x335)
+![princesse mononoke](mo.jpg){:height="640px" width="335px"} = 640x335)
