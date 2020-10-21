@@ -1,4 +1,4 @@
-### MAITE LAJOURNADE 👋
+### MAITE LAJOURNADE 🎶
 
 <!--
 **pikilla/pikilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,6 @@ _telephone_: 07.87.77.05.31 📳
 _mail_: maite.lajournade@gmail.com ✉
 
 
-![princesse mononoke](mo.jpg){:height="640px" width="335px"} 
+
+<img src="mo.jpg" width="300" />
+
