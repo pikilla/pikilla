@@ -19,4 +19,4 @@ _telephone_: 07.87.77.05.31 📳
 _mail_: maite.lajournade@gmail.com ✉
 
 
-[princesse mononoke](C:/Users/GRETA/Documents/github/pikilla/mo.jpg)
+![princesse mononoke](C:/Users/GRETA/Documents/github/pikilla/mo.jpg)
